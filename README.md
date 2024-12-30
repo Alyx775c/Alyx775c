@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello!!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+I'm a software engineer, and a minor!
+I'm fine with any pronouns that aren't masculine.
+Thanks for checking out my profile
 
 <!--
 **Alyx775c/Alyx775c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
