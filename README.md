@@ -1,7 +1,7 @@
 ## Hello!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alyx775c&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyx775c)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyx775c&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 I'm a software engineer, and a minor!
